@@ -10,7 +10,7 @@ To integrate ``Flipkart.com, AJIO.com, Snapdeal.com `` and other popular e-comme
 
 <hr>
 
-- Total 12 Prodcts are tracked by website for user yashpatel7025, and one of the product that has been tracked is shown below with 
+- Total 12 Prodcts are tracked by website for different users, and one of the product that has been tracked is shown below with 
 ``Name, Price, Product Image``. All fields are scraped from ***Amazon.in*** and it will continue to scrap it ***every 15 minutes***
 
 <img src="./User_interface_Images_of_Web_View/1.JPG" width="1000" height="430">
